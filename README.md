@@ -1,5 +1,5 @@
 # 💫 About Me:
->>Hi 👋, I'm Priyanshu Pattanayak.<br>>>A passionate learner from India paving it's way through this matrix<br> 🔭I'm Currently Working on :Hostel Management System.<br> 👯‍♂️I'm looking to collaborate on Web Development Project.<br>🌱I'm currently Learning JavaScript and Flutter App development.<br><br>
+>>Hi 👋, I'm Priyanshu Pattanayak.<br>>>A passionate learner from India paving it's way through this matrix<br> 🔭I'm Currently Working on :Hostel Management System.<br> 👯‍♂️I'm looking to collaborate on Web Development Project.<br>🌱I'm currently Learning JavaScript React.js and Next.js.<br><br>
 
 
 ## 🌐 Socials:

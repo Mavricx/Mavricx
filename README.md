@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hii+there!!%F0%9F%91%8B;I+am+Priyanshu.%F0%9F%98%81)](https://git.io/typing-svg)
 
 # 💫 About Me:
-Hi 👋, I'm Priyanshu Pattanayak.<br>>>A passionate learner from India paving it's way through this matrix<br>🔭I'm Currently Working on :Personal Portfolio Website<br>👯‍♂️I'm looking to collaborate on Web Development Project.<br>🌱I'm currently Learning JavaScript, React.js and Next.js.
+Hi 👋, I'm Priyanshu Pattanayak.<br>>>A passionate learner from India paving it's way through this matrix<br>🔭I'm Currently Working on :Personal Portfolio Website<br>👯‍♂️I'm looking to collaborate on Web Development Project.<br>🌱I'm currently Learning JavaScript, React.js and Node.js
 
 
 ## 🌐 Socials:
